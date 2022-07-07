@@ -1,4 +1,11 @@
-### Hi there 👋
+### About Me
+
+* Full Stack Software Engineer with 20+ years’ experience
+* 10+ years mobile app development experience
+
+![Eddie Lau's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddy-lau&hide=contribs,prs)
+
+
 
 <!--
 **eddy-lau/eddy-lau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
