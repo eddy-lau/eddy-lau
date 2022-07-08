@@ -3,6 +3,8 @@
 * Full Stack Software Engineer with 20+ years’ experience
 * 10+ years mobile app development experience
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddy-lau&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Eddie Lau's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddy-lau&hide=contribs,prs)
 
 
